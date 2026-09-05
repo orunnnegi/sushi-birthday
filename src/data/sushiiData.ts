@@ -99,7 +99,7 @@ export const sushiiData = {
     },
     {
       // src: '/images/sushii-02.jpg',
-      src: '/src/images/2.jpeg',
+      src: image2,
       caption: 'okay miss pretty',
       type: 'cutout' as PhotoType,
       category: ['pretty', 'aesthetic'] as PhotoCategory[],
@@ -108,7 +108,7 @@ export const sushiiData = {
     },
     {
       // src: '/images/sushii-03.jpg',
-      src: '/src/images/9.jpeg',
+      src: image9,
       caption: 'just Sushii being Sushii ♡',
       type: 'heart' as PhotoType,
       category: ['cutie', 'favorites'] as PhotoCategory[],
@@ -117,7 +117,8 @@ export const sushiiData = {
     },
     {
       // src: '/images/sushii-04.jpg',
-      src: '/src/images/3.jpeg',
+      // src: '/src/images/3.jpeg',
+      src: image3,
       caption: 'this one >>>',
       type: 'circle' as PhotoType,
       category: ['chaos', 'cutie'] as PhotoCategory[],
@@ -126,7 +127,8 @@ export const sushiiData = {
     },
     {
       // src: '/images/sushii-05.jpg',
-      src: '/src/images/4.jpeg',
+      // src: '/src/images/4.jpeg',
+      src: image4,
       caption: '10/10 human',
       type: 'taped' as PhotoType,
       category: ['pretty', 'aesthetic', 'favorites'] as PhotoCategory[],
@@ -135,7 +137,8 @@ export const sushiiData = {
     },
     {
       // src: '/images/sushii-06.jpg',
-      src: '/src/images/5.jpeg',
+      // src: '/src/images/5.jpeg',
+      src: image5,
       caption: 'girl what',
       type: 'strip' as PhotoType,
       category: ['chaos'] as PhotoCategory[],
@@ -144,7 +147,8 @@ export const sushiiData = {
     },
     {
       // src: '/images/sushii-07.jpg',
-      src: '/src/images/6.jpeg',
+      // src: '/src/images/6.jpeg',
+      src: image6,
       caption: 'main character energy',
       type: 'tiny' as PhotoType,
       category: ['cutie', 'pretty'] as PhotoCategory[],
@@ -153,7 +157,8 @@ export const sushiiData = {
     },
     {
       // src: '/images/sushii-08.jpg',
-      src: '/src/images/7.jpeg',
+      // src: '/src/images/7.jpeg',
+      src: image7,
       caption: 'favorite ♡',
       type: 'feature' as PhotoType,
       category: ['favorites', 'aesthetic', 'pretty'] as PhotoCategory[],
