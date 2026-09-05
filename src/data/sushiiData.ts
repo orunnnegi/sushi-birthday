@@ -5,6 +5,15 @@
 // Replace photo paths, captions, messages, playlist, etc.
 // ============================================================
 
+import image1 from '../images/1.jpeg';
+import image2 from '../images/2.jpeg';
+import image3 from '../images/3.jpeg';
+import image4 from '../images/4.jpeg';
+import image9 from '../images/9.jpeg';
+import image5 from '../images/5.jpeg';
+import image6 from '../images/6.jpeg';
+import image7 from '../images/7.jpeg';
+
 export type PhotoType =
   | 'polaroid'
   | 'cutout'
@@ -81,7 +90,7 @@ export const sushiiData = {
   // Categories determine which gallery filter shows them
   photos: [
     {
-      src: '/src/images/1.jpeg',
+      src: image1,
       caption: 'pretty girl ♡',
       type: 'polaroid' as PhotoType,
       category: ['cutie', 'pretty', 'favorites'] as PhotoCategory[],
