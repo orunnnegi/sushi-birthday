@@ -18,6 +18,8 @@ import song1 from '../music/My POV of you.mp3';
 import song2 from '../music/Company.mp3';
 import song3 from '../music/agar tum kaho.mp3';
 
+
+
 export type PhotoType =
   | 'polaroid'
   | 'cutout'
@@ -452,7 +454,7 @@ export const sushiiData = {
       artist: 'Hahahaha',
       // src: '/music/song-02.mp3',
       // src: '/src/music/My POV of you.mp3',
-      src: song1,
+      src: song3,
     },
     {
       title: 'Company',
