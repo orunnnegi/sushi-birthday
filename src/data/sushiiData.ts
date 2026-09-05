@@ -456,20 +456,9 @@ export const sushiiData = {
       // src: '/src/music/My POV of you.mp3',
       src: song3,
     },
-    {
-      title: 'Company',
-      artist: 'just for you',
-      // src: '/src/music/Company.mp3',
-      src: song2,
-    },
+   
     
-    {
-      title: 'one more',
-      artist: 'always for you',
-      // src: '/music/song-03.mp3',
-      // src: '/src/music/agar tum kaho.mp3',
-      src: song1,
-    },
+   
   ] as PlaylistSong[],
 
   // ---- SECRET STICKER MESSAGES ----
