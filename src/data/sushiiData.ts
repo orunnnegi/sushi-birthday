@@ -15,7 +15,7 @@ import image6 from '../images/6.jpeg';
 import image7 from '../images/7.jpeg';
 
 import song1 from '../music/My POV of you.mp3';
-import song2 from '../music/Company.mp3';
+import song2 from '../music/company.mp3';
 import song3 from '../music/agar tum kaho.mp3';
 
 
